@@ -12,7 +12,7 @@ var form = new Form( space );
 
 
 //// 2. Create Elements
-var alphabets = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz"; // alphabets to switch every step
+var alphabets = "ABCyz"; // alphabets to switch every step
 var fonts = ["Helvetica, sans-serif", "Georgia", "monospace"]; // fonts to switch every 26 steps
 var count = 0;
 var scale = 250;
